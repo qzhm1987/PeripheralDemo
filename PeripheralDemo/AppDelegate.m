@@ -16,6 +16,11 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    /**
+     qqq
+     * @ param <#name#> <#what#>
+     @ return
+     */
     // Override point for customization after application launch.
     return YES;
 }
